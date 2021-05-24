@@ -12,3 +12,5 @@ https://scottskinn.github.io/run-buddy/
 
 ## Contribution
 Made with 💖 by Scott Skinn
+
+### ©️2019 Run Buddy, Inc
