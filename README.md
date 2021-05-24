@@ -1,4 +1,4 @@
-# run-buddy
+# Run buddy Inc.
 
 ## Prpose
 A website that offers fitness training services.
