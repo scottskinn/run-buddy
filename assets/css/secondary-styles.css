@@ -12,7 +12,8 @@
       font-size: 42px;
       font-style: italic;
       border-bottom: 4px solid #fce138;
-      padding: 125px 80px 85px 80px;
+      padding: 150px 80px 15px 80px;
+      margin-bottom: 150px;
 
   }
   .secondary-content {
