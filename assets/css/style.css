@@ -14,6 +14,9 @@ body{
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
 }
 
 header h1 {
@@ -21,7 +24,8 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
+    
+    
 }
 
 header a {
@@ -30,18 +34,19 @@ header a {
 }
 
 header nav {
-    float: right;
-    margin: 7px 0;
+    margin: 7px 0px 7px 0;
 }
 
 header nav ul li {
     display: inline;
+    
 }
 
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+    
 }
 
 footer {
@@ -113,9 +118,6 @@ h3 {
 .intro {
     text-align: center;
 }
-.intro h2 {
- 
-}
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -126,9 +128,6 @@ h3 {
 .steps {
     text-align: center;
     background: #fce138;
-}
-.steps h2 {
-
 }
 .section-title {
     font-size: 55px;
